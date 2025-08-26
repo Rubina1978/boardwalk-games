@@ -124,6 +124,19 @@ h2 {
 #contact .table-dark *{
     background-color: transparent;
 }
+/* events */
+#events .table tr:hover *{
+    background-color: #f7e4d2;
+    
+}
+.disc{
+    background-color: var(--highlight-color);
+    color:white;
+    
+   
+
+}
+
 
 /* grid visualisation CSS for testing */
 /* .container, 
